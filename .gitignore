@@ -13,3 +13,12 @@ hs_err_pid*
 
 #Old CVS folders
 *CVS
+
+# Ignore Groff files
+*.1
+
+# Ignore build 
+*.build*
+*/build/*
+*.pbproj*
+*.xcode*
